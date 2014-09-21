@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.jsx",
+  "private": true,
   "repository" : {
     "type" : "git",
     "url" : "https://github.com/tdfairbrother/comment_box"
