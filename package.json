@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": ">=0.11.1",
+    "react": ">=0.11.2",
     "firebase": "^1.0.24",
     "reactfire": "^0.2.0"
   }
